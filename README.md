@@ -14,9 +14,9 @@ For the moment, there is no errors handling, therefore, we need to be careful ab
     * octal : 8
     * binary : 2
 * For instance, suppose we wanna add ```F1A2``` to ```8FDA``` in hexadecimal, addition is given writing the following :
-* 
+ 
     ``` print( addition(number_1 = "F1A2", number_2 = "8FDA", base = 16) ) ```
     
 * For example, suppose we wanna do the following subtraction : ```45 - 17``` in octal, subtraction is obtained writing the following :
-* 
+ 
     ``` print( subtraction(number_1 = "45", number_2 = "17", base = 8) ) ```
