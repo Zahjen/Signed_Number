@@ -114,7 +114,3 @@ def subtraction(number_1: str, number_2: str, base: int) -> str :
     sub = addition(number_1 = ext_nbr[0], number_2 = cplt_second_number, base = base)
     
     return sub
-
-
-#print(subtraction("01","010110", 2))
-#print(addition("5FA","210",16))
